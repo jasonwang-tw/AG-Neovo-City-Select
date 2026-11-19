@@ -1,18 +1,31 @@
 # AG Neovo City Select
 
-版本：**1.0.0** · [原始碼](https://github.com/jasonwang-tw/AG-Neovo-City-Select) · [版本紀錄](CHANGELOG.md)
+版本：**1.1.0** · [原始碼](https://github.com/jasonwang-tw/AG-Neovo-City-Select) · [版本紀錄](CHANGELOG.md)
 
 台灣 WooCommerce 傳統結帳、會員地址與購物車運費計算的縣市／鄉鎮及郵遞區號連動。使用者於 2026-11-19 同意建立自製外掛，保留既有外觀、欄位及 3 碼帶入，並處理 SAP 對 RY 字典的相依。詳細範圍及驗收見 PLAN.md，UI 選型與已確認需求見 DOC.md。
 
 ## 執行環境
 
-WordPress、WooCommerce 傳統 shortcode、Polylang、PHP 8.2+；前端沿用站上 WooCommerce 的 jQuery／SelectWoo。無 npm、打包步驟、外部 API 或新 CSS 框架；沒有新增設定頁或改動結帳版型。
+WordPress、WooCommerce 傳統 shortcode、Polylang、PHP 8.2+；前端沿用站上 WooCommerce 的 jQuery／SelectWoo。無 npm、打包步驟、外部 API 或新 CSS 框架；新增唯讀管理頁，結帳版型維持原樣。
 
 - 370 筆台灣地區／郵政選項及 22 個英文縣市 key，包含中英文名稱與 3 碼郵遞區號。370 並非純行政區數（含東沙／南沙郵政選項）。
 - 保留 billing／shipping／calc_shipping 的既有欄位名稱，維持 Checkout Field Editor 與主題樣式相容。
 - 已存在的城市值及較精確郵遞區號在首次載入、AJAX 重繪時保留；使用者明確切換縣市／鄉鎮後，依新選項帶入 3 碼。切換縣市不擅自選第一個鄉鎮。
 - 保留既有英／中文城市值，未知既有值保留顯示供使用者確認。非台灣地址維持文字輸入。
 - 提供 `agneovo_city_select_normalize_taiwan_part()` 給 SAP 使用，獨立完成英文縣市／鄉鎮轉繁中，不需載入 RY 程式或翻譯檔。
+
+
+## 後台管理頁（1.1.0）
+
+入口：**WooCommerce → City Select**；外掛清單也提供「設定」連結。具 `manage_woocommerce` 權限者可查看。若 WooCommerce 缺少，頁面安全降級至「設定 → City Select」，限 `manage_options`。
+
+- 運作資訊：顯示目前接管、RY 啟用而待命、缺少 WooCommerce 或掛鉤未載入的狀態。
+- 套用範圍：傳統結帳帳單／收件、會員地址、購物車運費計算及 SAP 本地轉換。
+- 地址資料：顯示資料版本、縣市／選項數及基本格式檢查結果。
+- 地址測試：選擇縣市／鄉鎮，立即查看三碼郵遞區號及 SAP 中文地址，可重設。不讀會員／訂單、不儲存資料、不呼叫外部服務。
+- 操作說明：提供實際流程驗收及回復 RY 的步驟；配送區與運費繼續使用 WooCommerce 設定。
+
+本頁為唯讀管理與測試工具，沒有儲存按鈕，不提供配送規則、會員／訂單或外掛啟用狀態的修改。管理頁測試不能取代實際會員結帳與超商選店驗收。
 
 ## 啟用與回復
 

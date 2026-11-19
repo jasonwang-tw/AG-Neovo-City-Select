@@ -2,7 +2,7 @@
 /**
  * Plugin Name: AG Neovo City Select
  * Description: Taiwan address selection for classic WooCommerce forms, with independent ERP normalization.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Requires at least: 6.8
  * Requires PHP: 8.2
  * Requires Plugins: woocommerce
@@ -14,6 +14,8 @@ namespace AGNeovo\CitySelect {
     defined( 'ABSPATH' ) || exit;
     require_once __DIR__ . '/includes/class-data.php';
     require_once __DIR__ . '/includes/class-frontend.php';
+    require_once __DIR__ . '/includes/class-admin.php';
+    Admin::register();
 
     final class Plugin {
         const LEGACY = 'ry-wc-city-select/ry-wc-city-select.php';
