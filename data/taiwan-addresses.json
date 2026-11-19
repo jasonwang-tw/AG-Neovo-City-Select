@@ -1,0 +1,1984 @@
+{
+    "TAIPEI CITY": {
+        "en": "Taipei City",
+        "zh": "臺北市",
+        "cities": [
+            {
+                "en": "Zhongzheng Dist",
+                "zh": "中正區",
+                "postcode": "100"
+            },
+            {
+                "en": "Datong Dist",
+                "zh": "大同區",
+                "postcode": "103"
+            },
+            {
+                "en": "Zhongshan Dist",
+                "zh": "中山區",
+                "postcode": "104"
+            },
+            {
+                "en": "Songshan Dist",
+                "zh": "松山區",
+                "postcode": "105"
+            },
+            {
+                "en": "Daan Dist",
+                "zh": "大安區",
+                "postcode": "106"
+            },
+            {
+                "en": "Wanhua Dist",
+                "zh": "萬華區",
+                "postcode": "108"
+            },
+            {
+                "en": "Xinyi Dist",
+                "zh": "信義區",
+                "postcode": "110"
+            },
+            {
+                "en": "Shilin Dist",
+                "zh": "士林區",
+                "postcode": "111"
+            },
+            {
+                "en": "Beitou Dist",
+                "zh": "北投區",
+                "postcode": "112"
+            },
+            {
+                "en": "Neihu Dist",
+                "zh": "內湖區",
+                "postcode": "114"
+            },
+            {
+                "en": "Nangang Dist",
+                "zh": "南港區",
+                "postcode": "115"
+            },
+            {
+                "en": "Wenshan Dist",
+                "zh": "文山區",
+                "postcode": "116"
+            }
+        ]
+    },
+    "NEW TAIPEI CITY": {
+        "en": "New Taipei City",
+        "zh": "新北市",
+        "cities": [
+            {
+                "en": "Wanli Dist",
+                "zh": "萬里區",
+                "postcode": "207"
+            },
+            {
+                "en": "Jinshan Dist",
+                "zh": "金山區",
+                "postcode": "208"
+            },
+            {
+                "en": "Banqiao Dist",
+                "zh": "板橋區",
+                "postcode": "220"
+            },
+            {
+                "en": "Xizhi Dist",
+                "zh": "汐止區",
+                "postcode": "221"
+            },
+            {
+                "en": "Shenkeng Dist",
+                "zh": "深坑區",
+                "postcode": "222"
+            },
+            {
+                "en": "Shiding Dist",
+                "zh": "石碇區",
+                "postcode": "223"
+            },
+            {
+                "en": "Ruifang Dist",
+                "zh": "瑞芳區",
+                "postcode": "224"
+            },
+            {
+                "en": "Pingxi Dist",
+                "zh": "平溪區",
+                "postcode": "226"
+            },
+            {
+                "en": "Shuangxi Dist",
+                "zh": "雙溪區",
+                "postcode": "227"
+            },
+            {
+                "en": "Gongliao Dist",
+                "zh": "貢寮區",
+                "postcode": "228"
+            },
+            {
+                "en": "Xindian Dist",
+                "zh": "新店區",
+                "postcode": "231"
+            },
+            {
+                "en": "Pinglin Dist",
+                "zh": "坪林區",
+                "postcode": "232"
+            },
+            {
+                "en": "Wulai Dist",
+                "zh": "烏來區",
+                "postcode": "233"
+            },
+            {
+                "en": "Yonghe Dist",
+                "zh": "永和區",
+                "postcode": "234"
+            },
+            {
+                "en": "Zhonghe Dist",
+                "zh": "中和區",
+                "postcode": "235"
+            },
+            {
+                "en": "Tucheng Dist",
+                "zh": "土城區",
+                "postcode": "236"
+            },
+            {
+                "en": "Sanxia Dist",
+                "zh": "三峽區",
+                "postcode": "237"
+            },
+            {
+                "en": "Shulin Dist",
+                "zh": "樹林區",
+                "postcode": "238"
+            },
+            {
+                "en": "Yingge Dist",
+                "zh": "鶯歌區",
+                "postcode": "239"
+            },
+            {
+                "en": "Sanchong Dist",
+                "zh": "三重區",
+                "postcode": "241"
+            },
+            {
+                "en": "Xinzhuang Dist",
+                "zh": "新莊區",
+                "postcode": "242"
+            },
+            {
+                "en": "Taishan Dist",
+                "zh": "泰山區",
+                "postcode": "243"
+            },
+            {
+                "en": "Linkou Dist",
+                "zh": "林口區",
+                "postcode": "244"
+            },
+            {
+                "en": "Luzhou Dist",
+                "zh": "蘆洲區",
+                "postcode": "247"
+            },
+            {
+                "en": "Wugu Dist",
+                "zh": "五股區",
+                "postcode": "248"
+            },
+            {
+                "en": "Bali Dist",
+                "zh": "八里區",
+                "postcode": "249"
+            },
+            {
+                "en": "Tamsui Dist",
+                "zh": "淡水區",
+                "postcode": "251"
+            },
+            {
+                "en": "Sanzhi Dist",
+                "zh": "三芝區",
+                "postcode": "252"
+            },
+            {
+                "en": "Shimen Dist",
+                "zh": "石門區",
+                "postcode": "253"
+            }
+        ]
+    },
+    "TAOYUAN CITY": {
+        "en": "Taoyuan City",
+        "zh": "桃園市",
+        "cities": [
+            {
+                "en": "Zhongli Dist",
+                "zh": "中壢區",
+                "postcode": "320"
+            },
+            {
+                "en": "Pingzhen Dist",
+                "zh": "平鎮區",
+                "postcode": "324"
+            },
+            {
+                "en": "Longtan Dist",
+                "zh": "龍潭區",
+                "postcode": "325"
+            },
+            {
+                "en": "Yangmei Dist",
+                "zh": "楊梅區",
+                "postcode": "326"
+            },
+            {
+                "en": "Xinwu Dist",
+                "zh": "新屋區",
+                "postcode": "327"
+            },
+            {
+                "en": "Guanyin Dist",
+                "zh": "觀音區",
+                "postcode": "328"
+            },
+            {
+                "en": "Taoyuan Dist",
+                "zh": "桃園區",
+                "postcode": "330"
+            },
+            {
+                "en": "Guishan Dist",
+                "zh": "龜山區",
+                "postcode": "333"
+            },
+            {
+                "en": "Bade Dist",
+                "zh": "八德區",
+                "postcode": "334"
+            },
+            {
+                "en": "Daxi Dist",
+                "zh": "大溪區",
+                "postcode": "335"
+            },
+            {
+                "en": "Fuxing Dist",
+                "zh": "復興區",
+                "postcode": "336"
+            },
+            {
+                "en": "Dayuan Dist",
+                "zh": "大園區",
+                "postcode": "337"
+            },
+            {
+                "en": "Luzhu Dist",
+                "zh": "蘆竹區",
+                "postcode": "338"
+            }
+        ]
+    },
+    "TAICHUNG CITY": {
+        "en": "Taichung City",
+        "zh": "臺中市",
+        "cities": [
+            {
+                "en": "Central Dist",
+                "zh": "中區",
+                "postcode": "400"
+            },
+            {
+                "en": "East Dist",
+                "zh": "東區",
+                "postcode": "401"
+            },
+            {
+                "en": "South Dist",
+                "zh": "南區",
+                "postcode": "402"
+            },
+            {
+                "en": "West Dist",
+                "zh": "西區",
+                "postcode": "403"
+            },
+            {
+                "en": "North Dist",
+                "zh": "北區",
+                "postcode": "404"
+            },
+            {
+                "en": "Beitun Dist",
+                "zh": "北屯區",
+                "postcode": "406"
+            },
+            {
+                "en": "Xitun Dist",
+                "zh": "西屯區",
+                "postcode": "407"
+            },
+            {
+                "en": "Nantun Dist",
+                "zh": "南屯區",
+                "postcode": "408"
+            },
+            {
+                "en": "Taiping Dist",
+                "zh": "太平區",
+                "postcode": "411"
+            },
+            {
+                "en": "Dali Dist",
+                "zh": "大里區",
+                "postcode": "412"
+            },
+            {
+                "en": "Wufeng Dist",
+                "zh": "霧峰區",
+                "postcode": "413"
+            },
+            {
+                "en": "Wuri Dist",
+                "zh": "烏日區",
+                "postcode": "414"
+            },
+            {
+                "en": "Fengyuan Dist",
+                "zh": "豐原區",
+                "postcode": "420"
+            },
+            {
+                "en": "Houli Dist",
+                "zh": "后里區",
+                "postcode": "421"
+            },
+            {
+                "en": "Shigang Dist",
+                "zh": "石岡區",
+                "postcode": "422"
+            },
+            {
+                "en": "Dongshi Dist",
+                "zh": "東勢區",
+                "postcode": "423"
+            },
+            {
+                "en": "Heping Dist",
+                "zh": "和平區",
+                "postcode": "424"
+            },
+            {
+                "en": "Xinshe Dist",
+                "zh": "新社區",
+                "postcode": "426"
+            },
+            {
+                "en": "Tanzi Dist",
+                "zh": "潭子區",
+                "postcode": "427"
+            },
+            {
+                "en": "Daya Dist",
+                "zh": "大雅區",
+                "postcode": "428"
+            },
+            {
+                "en": "Shengang Dist",
+                "zh": "神岡區",
+                "postcode": "429"
+            },
+            {
+                "en": "Dadu Dist",
+                "zh": "大肚區",
+                "postcode": "432"
+            },
+            {
+                "en": "Shalu Dist",
+                "zh": "沙鹿區",
+                "postcode": "433"
+            },
+            {
+                "en": "Longjing Dist",
+                "zh": "龍井區",
+                "postcode": "434"
+            },
+            {
+                "en": "Wuqi Dist",
+                "zh": "梧棲區",
+                "postcode": "435"
+            },
+            {
+                "en": "Qingshui Dist",
+                "zh": "清水區",
+                "postcode": "436"
+            },
+            {
+                "en": "Dajia Dist",
+                "zh": "大甲區",
+                "postcode": "437"
+            },
+            {
+                "en": "Waipu Dist",
+                "zh": "外埔區",
+                "postcode": "438"
+            },
+            {
+                "en": "Daan Dist",
+                "zh": "大安區",
+                "postcode": "439"
+            }
+        ]
+    },
+    "TAINAN CITY": {
+        "en": "Tainan City",
+        "zh": "臺南市",
+        "cities": [
+            {
+                "en": "West Central Dist",
+                "zh": "中西區",
+                "postcode": "700"
+            },
+            {
+                "en": "East Dist",
+                "zh": "東區",
+                "postcode": "701"
+            },
+            {
+                "en": "South Dist",
+                "zh": "南區",
+                "postcode": "702"
+            },
+            {
+                "en": "North Dist",
+                "zh": "北區",
+                "postcode": "704"
+            },
+            {
+                "en": "Anping Dist",
+                "zh": "安平區",
+                "postcode": "708"
+            },
+            {
+                "en": "Annan Dist",
+                "zh": "安南區",
+                "postcode": "709"
+            },
+            {
+                "en": "Yongkang Dist",
+                "zh": "永康區",
+                "postcode": "710"
+            },
+            {
+                "en": "Guiren Dist",
+                "zh": "歸仁區",
+                "postcode": "711"
+            },
+            {
+                "en": "Xinhua Dist",
+                "zh": "新化區",
+                "postcode": "712"
+            },
+            {
+                "en": "Zuozhen Dist",
+                "zh": "左鎮區",
+                "postcode": "713"
+            },
+            {
+                "en": "Yujing Dist",
+                "zh": "玉井區",
+                "postcode": "714"
+            },
+            {
+                "en": "Nanxi Dist",
+                "zh": "楠西區",
+                "postcode": "715"
+            },
+            {
+                "en": "Nanhua Dist",
+                "zh": "南化區",
+                "postcode": "716"
+            },
+            {
+                "en": "Rende Dist",
+                "zh": "仁德區",
+                "postcode": "717"
+            },
+            {
+                "en": "Guanmiao Dist",
+                "zh": "關廟區",
+                "postcode": "718"
+            },
+            {
+                "en": "Longqi Dist",
+                "zh": "龍崎區",
+                "postcode": "719"
+            },
+            {
+                "en": "Guantian Dist",
+                "zh": "官田區",
+                "postcode": "720"
+            },
+            {
+                "en": "Madou Dist",
+                "zh": "麻豆區",
+                "postcode": "721"
+            },
+            {
+                "en": "Jiali Dist",
+                "zh": "佳里區",
+                "postcode": "722"
+            },
+            {
+                "en": "Xigang Dist",
+                "zh": "西港區",
+                "postcode": "723"
+            },
+            {
+                "en": "Qigu Dist",
+                "zh": "七股區",
+                "postcode": "724"
+            },
+            {
+                "en": "Jiangjun Dist",
+                "zh": "將軍區",
+                "postcode": "725"
+            },
+            {
+                "en": "Xuejia Dist",
+                "zh": "學甲區",
+                "postcode": "726"
+            },
+            {
+                "en": "Beimen Dist",
+                "zh": "北門區",
+                "postcode": "727"
+            },
+            {
+                "en": "Xinying Dist",
+                "zh": "新營區",
+                "postcode": "730"
+            },
+            {
+                "en": "Houbi Dist",
+                "zh": "後壁區",
+                "postcode": "731"
+            },
+            {
+                "en": "Baihe Dist",
+                "zh": "白河區",
+                "postcode": "732"
+            },
+            {
+                "en": "Dongshan Dist",
+                "zh": "東山區",
+                "postcode": "733"
+            },
+            {
+                "en": "Liujia Dist",
+                "zh": "六甲區",
+                "postcode": "734"
+            },
+            {
+                "en": "Xiaying Dist",
+                "zh": "下營區",
+                "postcode": "735"
+            },
+            {
+                "en": "Liuying Dist",
+                "zh": "柳營區",
+                "postcode": "736"
+            },
+            {
+                "en": "Yanshui Dist",
+                "zh": "鹽水區",
+                "postcode": "737"
+            },
+            {
+                "en": "Shanhua Dist",
+                "zh": "善化區",
+                "postcode": "741"
+            },
+            {
+                "en": "Danei Dist",
+                "zh": "大內區",
+                "postcode": "742"
+            },
+            {
+                "en": "Shanshang Dist",
+                "zh": "山上區",
+                "postcode": "743"
+            },
+            {
+                "en": "Xinshi Dist",
+                "zh": "新市區",
+                "postcode": "744"
+            },
+            {
+                "en": "Anding Dist",
+                "zh": "安定區",
+                "postcode": "745"
+            }
+        ]
+    },
+    "KAOHSIUNG CITY": {
+        "en": "Kaohsiung City",
+        "zh": "高雄市",
+        "cities": [
+            {
+                "en": "Xinxing Dist",
+                "zh": "新興區",
+                "postcode": "800"
+            },
+            {
+                "en": "Qianjin Dist",
+                "zh": "前金區",
+                "postcode": "801"
+            },
+            {
+                "en": "Lingya Dist",
+                "zh": "苓雅區",
+                "postcode": "802"
+            },
+            {
+                "en": "Yancheng Dist",
+                "zh": "鹽埕區",
+                "postcode": "803"
+            },
+            {
+                "en": "Gushan Dist",
+                "zh": "鼓山區",
+                "postcode": "804"
+            },
+            {
+                "en": "Qijin Dist",
+                "zh": "旗津區",
+                "postcode": "805"
+            },
+            {
+                "en": "Qianzhen Dist",
+                "zh": "前鎮區",
+                "postcode": "806"
+            },
+            {
+                "en": "Sanmin Dist",
+                "zh": "三民區",
+                "postcode": "807"
+            },
+            {
+                "en": "Nanzi Dist",
+                "zh": "楠梓區",
+                "postcode": "811"
+            },
+            {
+                "en": "Xiaogang Dist",
+                "zh": "小港區",
+                "postcode": "812"
+            },
+            {
+                "en": "Zuoying Dist",
+                "zh": "左營區",
+                "postcode": "813"
+            },
+            {
+                "en": "Renwu Dist",
+                "zh": "仁武區",
+                "postcode": "814"
+            },
+            {
+                "en": "Dashe Dist",
+                "zh": "大社區",
+                "postcode": "815"
+            },
+            {
+                "en": "Dongsha Islands",
+                "zh": "東沙群島",
+                "postcode": "817"
+            },
+            {
+                "en": "Nansha Islands",
+                "zh": "南沙群島",
+                "postcode": "819"
+            },
+            {
+                "en": "Gangshan Dist",
+                "zh": "岡山區",
+                "postcode": "820"
+            },
+            {
+                "en": "Luzhu Dist",
+                "zh": "路竹區",
+                "postcode": "821"
+            },
+            {
+                "en": "Alian Dist",
+                "zh": "阿蓮區",
+                "postcode": "822"
+            },
+            {
+                "en": "Tianliao Dist",
+                "zh": "田寮區",
+                "postcode": "823"
+            },
+            {
+                "en": "Yanchao Dist",
+                "zh": "燕巢區",
+                "postcode": "824"
+            },
+            {
+                "en": "Qiaotou Dist",
+                "zh": "橋頭區",
+                "postcode": "825"
+            },
+            {
+                "en": "Ziguan Dist",
+                "zh": "梓官區",
+                "postcode": "826"
+            },
+            {
+                "en": "Mituo Dist",
+                "zh": "彌陀區",
+                "postcode": "827"
+            },
+            {
+                "en": "Yongan Dist",
+                "zh": "永安區",
+                "postcode": "828"
+            },
+            {
+                "en": "Hunei Dist",
+                "zh": "湖內區",
+                "postcode": "829"
+            },
+            {
+                "en": "Fengshan Dist",
+                "zh": "鳳山區",
+                "postcode": "830"
+            },
+            {
+                "en": "Daliao Dist",
+                "zh": "大寮區",
+                "postcode": "831"
+            },
+            {
+                "en": "Linyuan Dist",
+                "zh": "林園區",
+                "postcode": "832"
+            },
+            {
+                "en": "Niaosong Dist",
+                "zh": "鳥松區",
+                "postcode": "833"
+            },
+            {
+                "en": "Dashu Dist",
+                "zh": "大樹區",
+                "postcode": "840"
+            },
+            {
+                "en": "Qishan Dist",
+                "zh": "旗山區",
+                "postcode": "842"
+            },
+            {
+                "en": "Meinong Dist",
+                "zh": "美濃區",
+                "postcode": "843"
+            },
+            {
+                "en": "Liugui Dist",
+                "zh": "六龜區",
+                "postcode": "844"
+            },
+            {
+                "en": "Neimen Dist",
+                "zh": "內門區",
+                "postcode": "845"
+            },
+            {
+                "en": "Shanlin Dist",
+                "zh": "杉林區",
+                "postcode": "846"
+            },
+            {
+                "en": "Jiaxian Dist",
+                "zh": "甲仙區",
+                "postcode": "847"
+            },
+            {
+                "en": "Taoyuan Dist",
+                "zh": "桃源區",
+                "postcode": "848"
+            },
+            {
+                "en": "Namaxia Dist",
+                "zh": "那瑪夏區",
+                "postcode": "849"
+            },
+            {
+                "en": "Maolin Dist",
+                "zh": "茂林區",
+                "postcode": "851"
+            },
+            {
+                "en": "Qieding Dist",
+                "zh": "茄萣區",
+                "postcode": "852"
+            }
+        ]
+    },
+    "KEELUNG CITY": {
+        "en": "Keelung City",
+        "zh": "基隆市",
+        "cities": [
+            {
+                "en": "Renai Dist",
+                "zh": "仁愛區",
+                "postcode": "200"
+            },
+            {
+                "en": "Xinyi Dist",
+                "zh": "信義區",
+                "postcode": "201"
+            },
+            {
+                "en": "Zhongzheng Dist",
+                "zh": "中正區",
+                "postcode": "202"
+            },
+            {
+                "en": "Zhongshan Dist",
+                "zh": "中山區",
+                "postcode": "203"
+            },
+            {
+                "en": "Anle Dist",
+                "zh": "安樂區",
+                "postcode": "204"
+            },
+            {
+                "en": "Nuannuan Dist",
+                "zh": "暖暖區",
+                "postcode": "205"
+            },
+            {
+                "en": "Qidu Dist",
+                "zh": "七堵區",
+                "postcode": "206"
+            }
+        ]
+    },
+    "HSINCHU CITY": {
+        "en": "Hsinchu City",
+        "zh": "新竹市",
+        "cities": [
+            {
+                "en": "East Dist",
+                "zh": "東區",
+                "postcode": "300"
+            },
+            {
+                "en": "North Dist",
+                "zh": "北區",
+                "postcode": "300"
+            },
+            {
+                "en": "Xiangshan Dist",
+                "zh": "香山區",
+                "postcode": "300"
+            }
+        ]
+    },
+    "CHIAYI CITY": {
+        "en": "Chiayi City",
+        "zh": "嘉義市",
+        "cities": [
+            {
+                "en": "East Dist",
+                "zh": "東區",
+                "postcode": "600"
+            },
+            {
+                "en": "West Dist",
+                "zh": "西區",
+                "postcode": "600"
+            }
+        ]
+    },
+    "HSINCHU COUNTY": {
+        "en": "Hsinchu County",
+        "zh": "新竹縣",
+        "cities": [
+            {
+                "en": "Zhubei City",
+                "zh": "竹北市",
+                "postcode": "302"
+            },
+            {
+                "en": "Hukou Township",
+                "zh": "湖口鄉",
+                "postcode": "303"
+            },
+            {
+                "en": "Xinfeng Township",
+                "zh": "新豐鄉",
+                "postcode": "304"
+            },
+            {
+                "en": "Xinpu Township",
+                "zh": "新埔鎮",
+                "postcode": "305"
+            },
+            {
+                "en": "Guanxi Township",
+                "zh": "關西鎮",
+                "postcode": "306"
+            },
+            {
+                "en": "Qionglin Township",
+                "zh": "芎林鄉",
+                "postcode": "307"
+            },
+            {
+                "en": "Baoshan Township",
+                "zh": "寶山鄉",
+                "postcode": "308"
+            },
+            {
+                "en": "Zhudong Township",
+                "zh": "竹東鎮",
+                "postcode": "310"
+            },
+            {
+                "en": "Wufeng Township",
+                "zh": "五峰鄉",
+                "postcode": "311"
+            },
+            {
+                "en": "Hengshan Township",
+                "zh": "橫山鄉",
+                "postcode": "312"
+            },
+            {
+                "en": "Jianshi Township",
+                "zh": "尖石鄉",
+                "postcode": "313"
+            },
+            {
+                "en": "Beipu Township",
+                "zh": "北埔鄉",
+                "postcode": "314"
+            },
+            {
+                "en": "Emei Township",
+                "zh": "峨眉鄉",
+                "postcode": "315"
+            }
+        ]
+    },
+    "MIAOLI COUNTY": {
+        "en": "Miaoli County",
+        "zh": "苗栗縣",
+        "cities": [
+            {
+                "en": "Zhunan Township",
+                "zh": "竹南鎮",
+                "postcode": "350"
+            },
+            {
+                "en": "Toufen City",
+                "zh": "頭份市",
+                "postcode": "351"
+            },
+            {
+                "en": "Sanwan Township",
+                "zh": "三灣鄉",
+                "postcode": "352"
+            },
+            {
+                "en": "Nanzhuang Township",
+                "zh": "南庄鄉",
+                "postcode": "353"
+            },
+            {
+                "en": "Shitan Township",
+                "zh": "獅潭鄉",
+                "postcode": "354"
+            },
+            {
+                "en": "Houlong Township",
+                "zh": "後龍鎮",
+                "postcode": "356"
+            },
+            {
+                "en": "Tongxiao Township",
+                "zh": "通霄鎮",
+                "postcode": "357"
+            },
+            {
+                "en": "Yuanli Township",
+                "zh": "苑裡鎮",
+                "postcode": "358"
+            },
+            {
+                "en": "Miaoli City",
+                "zh": "苗栗市",
+                "postcode": "360"
+            },
+            {
+                "en": "Zaoqiao Township",
+                "zh": "造橋鄉",
+                "postcode": "361"
+            },
+            {
+                "en": "Touwu Township",
+                "zh": "頭屋鄉",
+                "postcode": "362"
+            },
+            {
+                "en": "Gongguan Township",
+                "zh": "公館鄉",
+                "postcode": "363"
+            },
+            {
+                "en": "Dahu Township",
+                "zh": "大湖鄉",
+                "postcode": "364"
+            },
+            {
+                "en": "Taian Township",
+                "zh": "泰安鄉",
+                "postcode": "365"
+            },
+            {
+                "en": "Tongluo Township",
+                "zh": "銅鑼鄉",
+                "postcode": "366"
+            },
+            {
+                "en": "Sanyi Township",
+                "zh": "三義鄉",
+                "postcode": "367"
+            },
+            {
+                "en": "Xihu Township",
+                "zh": "西湖鄉",
+                "postcode": "368"
+            },
+            {
+                "en": "Zhuolan Township",
+                "zh": "卓蘭鎮",
+                "postcode": "369"
+            }
+        ]
+    },
+    "CHANGHUA COUNTY": {
+        "en": "Changhua County",
+        "zh": "彰化縣",
+        "cities": [
+            {
+                "en": "Changhua City",
+                "zh": "彰化市",
+                "postcode": "500"
+            },
+            {
+                "en": "Fenyuan Township",
+                "zh": "芬園鄉",
+                "postcode": "502"
+            },
+            {
+                "en": "Huatan Township",
+                "zh": "花壇鄉",
+                "postcode": "503"
+            },
+            {
+                "en": "Xiushui Township",
+                "zh": "秀水鄉",
+                "postcode": "504"
+            },
+            {
+                "en": "Lukang Township",
+                "zh": "鹿港鎮",
+                "postcode": "505"
+            },
+            {
+                "en": "Fuxing Township",
+                "zh": "福興鄉",
+                "postcode": "506"
+            },
+            {
+                "en": "Xianxi Township",
+                "zh": "線西鄉",
+                "postcode": "507"
+            },
+            {
+                "en": "Hemei Township",
+                "zh": "和美鎮",
+                "postcode": "508"
+            },
+            {
+                "en": "Shengang Township",
+                "zh": "伸港鄉",
+                "postcode": "509"
+            },
+            {
+                "en": "Yuanlin City",
+                "zh": "員林市",
+                "postcode": "510"
+            },
+            {
+                "en": "Shetou Township",
+                "zh": "社頭鄉",
+                "postcode": "511"
+            },
+            {
+                "en": "Yongjing Township",
+                "zh": "永靖鄉",
+                "postcode": "512"
+            },
+            {
+                "en": "Puxin Township",
+                "zh": "埔心鄉",
+                "postcode": "513"
+            },
+            {
+                "en": "Xihu Township",
+                "zh": "溪湖鎮",
+                "postcode": "514"
+            },
+            {
+                "en": "Dacun Township",
+                "zh": "大村鄉",
+                "postcode": "515"
+            },
+            {
+                "en": "Puyan Township",
+                "zh": "埔鹽鄉",
+                "postcode": "516"
+            },
+            {
+                "en": "Tianzhong Township",
+                "zh": "田中鎮",
+                "postcode": "520"
+            },
+            {
+                "en": "Beidou Township",
+                "zh": "北斗鎮",
+                "postcode": "521"
+            },
+            {
+                "en": "Tianwei Township",
+                "zh": "田尾鄉",
+                "postcode": "522"
+            },
+            {
+                "en": "Pitou Township",
+                "zh": "埤頭鄉",
+                "postcode": "523"
+            },
+            {
+                "en": "Xizhou Township",
+                "zh": "溪州鄉",
+                "postcode": "524"
+            },
+            {
+                "en": "Zhutang Township",
+                "zh": "竹塘鄉",
+                "postcode": "525"
+            },
+            {
+                "en": "Erlin Township",
+                "zh": "二林鎮",
+                "postcode": "526"
+            },
+            {
+                "en": "Dacheng Township",
+                "zh": "大城鄉",
+                "postcode": "527"
+            },
+            {
+                "en": "Fangyuan Township",
+                "zh": "芳苑鄉",
+                "postcode": "528"
+            },
+            {
+                "en": "Ershui Township",
+                "zh": "二水鄉",
+                "postcode": "530"
+            }
+        ]
+    },
+    "NANTOU COUNTY": {
+        "en": "Nantou County",
+        "zh": "南投縣",
+        "cities": [
+            {
+                "en": "Nantou City",
+                "zh": "南投市",
+                "postcode": "540"
+            },
+            {
+                "en": "Zhongliao Township",
+                "zh": "中寮鄉",
+                "postcode": "541"
+            },
+            {
+                "en": "Caotun Township",
+                "zh": "草屯鎮",
+                "postcode": "542"
+            },
+            {
+                "en": "Guoxing Township",
+                "zh": "國姓鄉",
+                "postcode": "544"
+            },
+            {
+                "en": "Puli Township",
+                "zh": "埔里鎮",
+                "postcode": "545"
+            },
+            {
+                "en": "Renai Township",
+                "zh": "仁愛鄉",
+                "postcode": "546"
+            },
+            {
+                "en": "Mingjian Township",
+                "zh": "名間鄉",
+                "postcode": "551"
+            },
+            {
+                "en": "Jiji Township",
+                "zh": "集集鎮",
+                "postcode": "552"
+            },
+            {
+                "en": "Shuili Township",
+                "zh": "水里鄉",
+                "postcode": "553"
+            },
+            {
+                "en": "Yuchi Township",
+                "zh": "魚池鄉",
+                "postcode": "555"
+            },
+            {
+                "en": "Xinyi Township",
+                "zh": "信義鄉",
+                "postcode": "556"
+            },
+            {
+                "en": "Zhushan Township",
+                "zh": "竹山鎮",
+                "postcode": "557"
+            },
+            {
+                "en": "Lugu Township",
+                "zh": "鹿谷鄉",
+                "postcode": "558"
+            }
+        ]
+    },
+    "YUNLIN COUNTY": {
+        "en": "Yunlin County",
+        "zh": "雲林縣",
+        "cities": [
+            {
+                "en": "Dounan Township",
+                "zh": "斗南鎮",
+                "postcode": "630"
+            },
+            {
+                "en": "Dapi Township",
+                "zh": "大埤鄉",
+                "postcode": "631"
+            },
+            {
+                "en": "Huwei Township",
+                "zh": "虎尾鎮",
+                "postcode": "632"
+            },
+            {
+                "en": "Tuku Township",
+                "zh": "土庫鎮",
+                "postcode": "633"
+            },
+            {
+                "en": "Baozhong Township",
+                "zh": "褒忠鄉",
+                "postcode": "634"
+            },
+            {
+                "en": "Dongshi Township",
+                "zh": "東勢鄉",
+                "postcode": "635"
+            },
+            {
+                "en": "Taixi Township",
+                "zh": "臺西鄉",
+                "postcode": "636"
+            },
+            {
+                "en": "Lunbei Township",
+                "zh": "崙背鄉",
+                "postcode": "637"
+            },
+            {
+                "en": "Mailiao Township",
+                "zh": "麥寮鄉",
+                "postcode": "638"
+            },
+            {
+                "en": "Douliu City",
+                "zh": "斗六市",
+                "postcode": "640"
+            },
+            {
+                "en": "Linnei Township",
+                "zh": "林內鄉",
+                "postcode": "643"
+            },
+            {
+                "en": "Gukeng Township",
+                "zh": "古坑鄉",
+                "postcode": "646"
+            },
+            {
+                "en": "Citong Township",
+                "zh": "莿桐鄉",
+                "postcode": "647"
+            },
+            {
+                "en": "Xiluo Township",
+                "zh": "西螺鎮",
+                "postcode": "648"
+            },
+            {
+                "en": "Erlun Township",
+                "zh": "二崙鄉",
+                "postcode": "649"
+            },
+            {
+                "en": "Beigang Township",
+                "zh": "北港鎮",
+                "postcode": "651"
+            },
+            {
+                "en": "Shuilin Township",
+                "zh": "水林鄉",
+                "postcode": "652"
+            },
+            {
+                "en": "Kouhu Township",
+                "zh": "口湖鄉",
+                "postcode": "653"
+            },
+            {
+                "en": "Sihu Township",
+                "zh": "四湖鄉",
+                "postcode": "654"
+            },
+            {
+                "en": "Yuanzhang Township",
+                "zh": "元長鄉",
+                "postcode": "655"
+            }
+        ]
+    },
+    "CHIAYI COUNTY": {
+        "en": "Chiayi County",
+        "zh": "嘉義縣",
+        "cities": [
+            {
+                "en": "Fanlu Township",
+                "zh": "番路鄉",
+                "postcode": "602"
+            },
+            {
+                "en": "Meishan Township",
+                "zh": "梅山鄉",
+                "postcode": "603"
+            },
+            {
+                "en": "Zhuqi Township",
+                "zh": "竹崎鄉",
+                "postcode": "604"
+            },
+            {
+                "en": "Alishan Township",
+                "zh": "阿里山鄉",
+                "postcode": "605"
+            },
+            {
+                "en": "Zhongpu Township",
+                "zh": "中埔鄉",
+                "postcode": "606"
+            },
+            {
+                "en": "Dapu Township",
+                "zh": "大埔鄉",
+                "postcode": "607"
+            },
+            {
+                "en": "Shuishang Township",
+                "zh": "水上鄉",
+                "postcode": "608"
+            },
+            {
+                "en": "Lucao Township",
+                "zh": "鹿草鄉",
+                "postcode": "611"
+            },
+            {
+                "en": "Taibao City",
+                "zh": "太保市",
+                "postcode": "612"
+            },
+            {
+                "en": "Puzi City",
+                "zh": "朴子市",
+                "postcode": "613"
+            },
+            {
+                "en": "Dongshi Township",
+                "zh": "東石鄉",
+                "postcode": "614"
+            },
+            {
+                "en": "Liujiao Township",
+                "zh": "六腳鄉",
+                "postcode": "615"
+            },
+            {
+                "en": "Xingang Township",
+                "zh": "新港鄉",
+                "postcode": "616"
+            },
+            {
+                "en": "Minxiong Township",
+                "zh": "民雄鄉",
+                "postcode": "621"
+            },
+            {
+                "en": "Dalin Township",
+                "zh": "大林鎮",
+                "postcode": "622"
+            },
+            {
+                "en": "Xikou Township",
+                "zh": "溪口鄉",
+                "postcode": "623"
+            },
+            {
+                "en": "Yizhu Township",
+                "zh": "義竹鄉",
+                "postcode": "624"
+            },
+            {
+                "en": "Budai Township",
+                "zh": "布袋鎮",
+                "postcode": "625"
+            }
+        ]
+    },
+    "PINGTUNG COUNTY": {
+        "en": "Pingtung County",
+        "zh": "屏東縣",
+        "cities": [
+            {
+                "en": "Pingtung City",
+                "zh": "屏東市",
+                "postcode": "900"
+            },
+            {
+                "en": "Sandimen Township",
+                "zh": "三地門鄉",
+                "postcode": "901"
+            },
+            {
+                "en": "Wutai Township",
+                "zh": "霧臺鄉",
+                "postcode": "902"
+            },
+            {
+                "en": "Majia Township",
+                "zh": "瑪家鄉",
+                "postcode": "903"
+            },
+            {
+                "en": "Jiuru Township",
+                "zh": "九如鄉",
+                "postcode": "904"
+            },
+            {
+                "en": "Ligang Township",
+                "zh": "里港鄉",
+                "postcode": "905"
+            },
+            {
+                "en": "Gaoshu Township",
+                "zh": "高樹鄉",
+                "postcode": "906"
+            },
+            {
+                "en": "Yanpu Township",
+                "zh": "鹽埔鄉",
+                "postcode": "907"
+            },
+            {
+                "en": "Changzhi Township",
+                "zh": "長治鄉",
+                "postcode": "908"
+            },
+            {
+                "en": "Linluo Township",
+                "zh": "麟洛鄉",
+                "postcode": "909"
+            },
+            {
+                "en": "Zhutian Township",
+                "zh": "竹田鄉",
+                "postcode": "911"
+            },
+            {
+                "en": "Neipu Township",
+                "zh": "內埔鄉",
+                "postcode": "912"
+            },
+            {
+                "en": "Wandan Township",
+                "zh": "萬丹鄉",
+                "postcode": "913"
+            },
+            {
+                "en": "Chaozhou Township",
+                "zh": "潮州鎮",
+                "postcode": "920"
+            },
+            {
+                "en": "Taiwu Township",
+                "zh": "泰武鄉",
+                "postcode": "921"
+            },
+            {
+                "en": "Laiyi Township",
+                "zh": "來義鄉",
+                "postcode": "922"
+            },
+            {
+                "en": "Wanluan Township",
+                "zh": "萬巒鄉",
+                "postcode": "923"
+            },
+            {
+                "en": "Kanding Township",
+                "zh": "崁頂鄉",
+                "postcode": "924"
+            },
+            {
+                "en": "Xinpi Township",
+                "zh": "新埤鄉",
+                "postcode": "925"
+            },
+            {
+                "en": "Nanzhou Township",
+                "zh": "南州鄉",
+                "postcode": "926"
+            },
+            {
+                "en": "Linbian Township",
+                "zh": "林邊鄉",
+                "postcode": "927"
+            },
+            {
+                "en": "Donggang Township",
+                "zh": "東港鎮",
+                "postcode": "928"
+            },
+            {
+                "en": "Liuqiu Township",
+                "zh": "琉球鄉",
+                "postcode": "929"
+            },
+            {
+                "en": "Jiadong Township",
+                "zh": "佳冬鄉",
+                "postcode": "931"
+            },
+            {
+                "en": "Xinyuan Township",
+                "zh": "新園鄉",
+                "postcode": "932"
+            },
+            {
+                "en": "Fangliao Township",
+                "zh": "枋寮鄉",
+                "postcode": "940"
+            },
+            {
+                "en": "Fangshan Township",
+                "zh": "枋山鄉",
+                "postcode": "941"
+            },
+            {
+                "en": "Chunri Township",
+                "zh": "春日鄉",
+                "postcode": "942"
+            },
+            {
+                "en": "Shizi Township",
+                "zh": "獅子鄉",
+                "postcode": "943"
+            },
+            {
+                "en": "Checheng Township",
+                "zh": "車城鄉",
+                "postcode": "944"
+            },
+            {
+                "en": "Mudan Township",
+                "zh": "牡丹鄉",
+                "postcode": "945"
+            },
+            {
+                "en": "Hengchun Township",
+                "zh": "恆春鎮",
+                "postcode": "946"
+            },
+            {
+                "en": "Manzhou Township",
+                "zh": "滿州鄉",
+                "postcode": "947"
+            }
+        ]
+    },
+    "YILAN COUNTY": {
+        "en": "Yilan County",
+        "zh": "宜蘭縣",
+        "cities": [
+            {
+                "en": "Yilan City",
+                "zh": "宜蘭市",
+                "postcode": "260"
+            },
+            {
+                "en": "Toucheng Township",
+                "zh": "頭城鎮",
+                "postcode": "261"
+            },
+            {
+                "en": "Jiaoxi Township",
+                "zh": "礁溪鄉",
+                "postcode": "262"
+            },
+            {
+                "en": "Zhuangwei Township",
+                "zh": "壯圍鄉",
+                "postcode": "263"
+            },
+            {
+                "en": "Yuanshan Township",
+                "zh": "員山鄉",
+                "postcode": "264"
+            },
+            {
+                "en": "Luodong Township",
+                "zh": "羅東鎮",
+                "postcode": "265"
+            },
+            {
+                "en": "Sanxing Township",
+                "zh": "三星鄉",
+                "postcode": "266"
+            },
+            {
+                "en": "Datong Township",
+                "zh": "大同鄉",
+                "postcode": "267"
+            },
+            {
+                "en": "Wujie Township",
+                "zh": "五結鄉",
+                "postcode": "268"
+            },
+            {
+                "en": "Dongshan Township",
+                "zh": "冬山鄉",
+                "postcode": "269"
+            },
+            {
+                "en": "Suao Township",
+                "zh": "蘇澳鎮",
+                "postcode": "270"
+            },
+            {
+                "en": "Nanao Township",
+                "zh": "南澳鄉",
+                "postcode": "272"
+            }
+        ]
+    },
+    "HUALIEN COUNTY": {
+        "en": "Hualien County",
+        "zh": "花蓮縣",
+        "cities": [
+            {
+                "en": "Hualien City",
+                "zh": "花蓮市",
+                "postcode": "970"
+            },
+            {
+                "en": "Xincheng Township",
+                "zh": "新城鄉",
+                "postcode": "971"
+            },
+            {
+                "en": "Xiulin Township",
+                "zh": "秀林鄉",
+                "postcode": "972"
+            },
+            {
+                "en": "Jian Township",
+                "zh": "吉安鄉",
+                "postcode": "973"
+            },
+            {
+                "en": "Shoufeng Township",
+                "zh": "壽豐鄉",
+                "postcode": "974"
+            },
+            {
+                "en": "Fenglin Township",
+                "zh": "鳳林鎮",
+                "postcode": "975"
+            },
+            {
+                "en": "Guangfu Township",
+                "zh": "光復鄉",
+                "postcode": "976"
+            },
+            {
+                "en": "Fengbin Township",
+                "zh": "豐濱鄉",
+                "postcode": "977"
+            },
+            {
+                "en": "Ruisui Township",
+                "zh": "瑞穗鄉",
+                "postcode": "978"
+            },
+            {
+                "en": "Wanrong Township",
+                "zh": "萬榮鄉",
+                "postcode": "979"
+            },
+            {
+                "en": "Yuli Township",
+                "zh": "玉里鎮",
+                "postcode": "981"
+            },
+            {
+                "en": "Zhuoxi Township",
+                "zh": "卓溪鄉",
+                "postcode": "982"
+            },
+            {
+                "en": "Fuli Township",
+                "zh": "富里鄉",
+                "postcode": "983"
+            }
+        ]
+    },
+    "TAITUNG COUNTY": {
+        "en": "Taitung County",
+        "zh": "臺東縣",
+        "cities": [
+            {
+                "en": "Taitung City",
+                "zh": "臺東市",
+                "postcode": "950"
+            },
+            {
+                "en": "Ludao Township",
+                "zh": "綠島鄉",
+                "postcode": "951"
+            },
+            {
+                "en": "Lanyu Township",
+                "zh": "蘭嶼鄉",
+                "postcode": "952"
+            },
+            {
+                "en": "Yanping Township",
+                "zh": "延平鄉",
+                "postcode": "953"
+            },
+            {
+                "en": "Beinan Township",
+                "zh": "卑南鄉",
+                "postcode": "954"
+            },
+            {
+                "en": "Luye Township",
+                "zh": "鹿野鄉",
+                "postcode": "955"
+            },
+            {
+                "en": "Guanshan Township",
+                "zh": "關山鎮",
+                "postcode": "956"
+            },
+            {
+                "en": "Haiduan Township",
+                "zh": "海端鄉",
+                "postcode": "957"
+            },
+            {
+                "en": "Chishang Township",
+                "zh": "池上鄉",
+                "postcode": "958"
+            },
+            {
+                "en": "Donghe Township",
+                "zh": "東河鄉",
+                "postcode": "959"
+            },
+            {
+                "en": "Chenggong Township",
+                "zh": "成功鎮",
+                "postcode": "961"
+            },
+            {
+                "en": "Changbin Township",
+                "zh": "長濱鄉",
+                "postcode": "962"
+            },
+            {
+                "en": "Taimali Township",
+                "zh": "太麻里鄉",
+                "postcode": "963"
+            },
+            {
+                "en": "Jinfeng Township",
+                "zh": "金峰鄉",
+                "postcode": "964"
+            },
+            {
+                "en": "Dawu Township",
+                "zh": "大武鄉",
+                "postcode": "965"
+            },
+            {
+                "en": "Daren Township",
+                "zh": "達仁鄉",
+                "postcode": "966"
+            }
+        ]
+    },
+    "PENGHU COUNTY": {
+        "en": "Penghu County",
+        "zh": "澎湖縣",
+        "cities": [
+            {
+                "en": "Magong City",
+                "zh": "馬公市",
+                "postcode": "880"
+            },
+            {
+                "en": "Xiyu Township",
+                "zh": "西嶼鄉",
+                "postcode": "881"
+            },
+            {
+                "en": "Wangan Township",
+                "zh": "望安鄉",
+                "postcode": "882"
+            },
+            {
+                "en": "Qimei Township",
+                "zh": "七美鄉",
+                "postcode": "883"
+            },
+            {
+                "en": "Baisha Township",
+                "zh": "白沙鄉",
+                "postcode": "884"
+            },
+            {
+                "en": "Huxi Township",
+                "zh": "湖西鄉",
+                "postcode": "885"
+            }
+        ]
+    },
+    "KINMEN COUNTY": {
+        "en": "Kinmen County",
+        "zh": "金門縣",
+        "cities": [
+            {
+                "en": "Jinsha Township",
+                "zh": "金沙鎮",
+                "postcode": "890"
+            },
+            {
+                "en": "Jinhu Township",
+                "zh": "金湖鎮",
+                "postcode": "891"
+            },
+            {
+                "en": "Jinning Township",
+                "zh": "金寧鄉",
+                "postcode": "892"
+            },
+            {
+                "en": "Jincheng Township",
+                "zh": "金城鎮",
+                "postcode": "893"
+            },
+            {
+                "en": "Lieyu Township",
+                "zh": "烈嶼鄉",
+                "postcode": "894"
+            },
+            {
+                "en": "Wuqiu Township",
+                "zh": "烏坵鄉",
+                "postcode": "896"
+            }
+        ]
+    },
+    "LIENCHIANG COUNTY": {
+        "en": "Lienchiang County",
+        "zh": "連江縣",
+        "cities": [
+            {
+                "en": "Nangan Township",
+                "zh": "南竿鄉",
+                "postcode": "209"
+            },
+            {
+                "en": "Beigan Township",
+                "zh": "北竿鄉",
+                "postcode": "210"
+            },
+            {
+                "en": "Juguang Township",
+                "zh": "莒光鄉",
+                "postcode": "211"
+            },
+            {
+                "en": "Dongyin Township",
+                "zh": "東引鄉",
+                "postcode": "212"
+            }
+        ]
+    }
+}
